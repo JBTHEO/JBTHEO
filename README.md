@@ -1,15 +1,14 @@
 ### Hi there 👋
 
-<!--
-**JBTHEO/JBTHEO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
 
-Here are some ideas to get you started:
+## Introduction
+I am currently studying the Skills Bootcamp in Data Science (Fundamentals) course, where I have started learning Python. 
+My interest in this course stems from my past experience in logistics IT projects and data analysis roles, where I realized the importance of data science and became fascinated by this field.
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Learning Journey
+I am currently focusing on mastering the basics of Python programming and expanding my coding skills. I am eager to continue learning and exploring other areas in data science.
+
+## Contact Information
+- **LinkedIn:** [Junbeom Kim](https://www.linkedin.com/in/junbeom-kim-6394169a/)
+- **Email:** junbeom201301@gmail.com
