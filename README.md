@@ -12,3 +12,4 @@ I am currently focusing on mastering the basics of Python programming and expand
 ## Contact Information
 - **LinkedIn:** [Junbeom Kim](https://www.linkedin.com/in/junbeom-kim-6394169a/)
 - **Email:** junbeom201301@gmail.com
+- **Google answers doc:** https://docs.google.com/document/d/1FfF3uEH3yK2SrpX2QNKH_FnT0iFRaFsdCugIQuJpxNw/edit
